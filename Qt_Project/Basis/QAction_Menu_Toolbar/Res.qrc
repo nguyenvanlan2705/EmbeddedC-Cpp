@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>ICon/1564506_close_exit_logout_power_icon.png</file>
+        <file>ICon/2931173_document_empty_file_new_sheet_icon.png</file>
+        <file>ICon/8530619_folder_open_icon (1).png</file>
+    </qresource>
+</RCC>

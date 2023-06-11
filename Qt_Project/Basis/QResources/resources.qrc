@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/89011_quit_icon.png</file>
+        <file>Images/211811_redo_icon.png</file>
+        <file>Images/211838_undo_icon.png</file>
+        <file>Images/330401_about_details_help_info_information_icon.png</file>
+        <file>Images/1608782_paste_icon.png</file>
+        <file>Images/8207898_about_info_information_help_ui_icon.png</file>
+        <file>Images/8530597_copy_icon.png</file>
+        <file>Images/9110868_cut_icon.png</file>
+        <file>Images/173986_minion_happy_icon.png</file>
+    </qresource>
+</RCC>
