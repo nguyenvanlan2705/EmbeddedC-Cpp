@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\STM32-Project\Project\SPI_Driver\EWARM\SPI_Driver\Exe\SPI_Driver.out</Path>
+            <Output>
+                <Path>D:\STM32-Project\Project\SPI_Driver\EWARM\SPI_Driver\List\SPI_Driver.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
